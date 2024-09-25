@@ -1,0 +1,32 @@
+[
+  {
+    "lession": "1",
+    "english": "Enjoy",
+    "japanese": "たのしい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "2",
+    "english": "cat",
+    "japanese": "ねこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "3",
+    "english": "dog",
+    "japanese": "いぬ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "4",
+    "english": "chair",
+    "japanese": "いす",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "4",
+    "english": "desk",
+    "japanese": "つくえ",
+    "vocabType": "Noun"
+  }
+]
