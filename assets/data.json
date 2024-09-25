@@ -690,10 +690,10 @@
     "vocabType": "Verb"
   },
   {
-    "lession": "4",
+    "lession": "8",
     "english": "Study",
-    "japanese": "べんきょうします",
-    "vocabType": "Verb"
+    "japanese": "べんきょう",
+    "vocabType": "Noun"
   },
   {
     "lession": "4",
@@ -1548,9 +1548,9 @@
     "vocabType": "Noun"
   },
   {
-    "lession": "6",
+    "lession": "8",
     "english": "Cherry blossom",
-    "japanese": "「お」はなみ",
+    "japanese": "さくら",
     "vocabType": "Noun"
   },
   {
@@ -1599,6 +1599,1368 @@
     "lession": "6",
     "english": "See you (tomorrow)",
     "japanese": "じゃ、また「あした」",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Cut, Slice",
+    "japanese": "きります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Send",
+    "japanese": "おくります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Give",
+    "japanese": "あげます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Receive",
+    "japanese": "もらいます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Lend",
+    "japanese": "かします",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Borrow",
+    "japanese": "かります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Teach",
+    "japanese": "おしえます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Learn",
+    "japanese": "ならいます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Make(a telephone call)",
+    "japanese": "でんわをかけます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "7",
+    "english": "Hand, arm",
+    "japanese": "て",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Chopsticks",
+    "japanese": "はし",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Spoon",
+    "japanese": "スプーン",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Knife",
+    "japanese": "ナイフ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Fork",
+    "japanese": "フォーク",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Scissors",
+    "japanese": "はさみ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Fax",
+    "japanese": "ファクス",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Word Processor",
+    "japanese": "ワープロ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Personal Computer",
+    "japanese": "ペソコン",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Punch",
+    "japanese": "ペンチ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Stapler",
+    "japanese": "ホッチキス",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Scotch tape, Clear adhesive tape",
+    "japanese": "セロテープ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Eraser",
+    "japanese": "はしゴム",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Paper",
+    "japanese": "かみ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Flower, Blossom",
+    "japanese": "はな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Shirt",
+    "japanese": "シャツ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Present, Gift",
+    "japanese": "プレゼント",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Baggage, Parcel",
+    "japanese": "にもつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Money",
+    "japanese": "おかね",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Ticket",
+    "japanese": "きっぷ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Christmas",
+    "japanese": "クリスマス",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "(my) father",
+    "japanese": "ちち",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "(my) mother",
+    "japanese": "はは",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Father (someone)",
+    "japanese": "おとうさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Mother (Someone)",
+    "japanese": "おかあさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Already",
+    "japanese": "もう",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "Not yet",
+    "japanese": "まだ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "From now on, soon",
+    "japanese": "これから",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "7",
+    "english": "What a nice....",
+    "japanese": "すてきですね",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Handsome",
+    "japanese": "ハンサム",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Beautiful, Clean",
+    "japanese": "きれい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Quiet",
+    "japanese": "しずか",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Lively",
+    "japanese": "にぎやか",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Famous",
+    "japanese": "ゆうめい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Kind",
+    "japanese": "しんせつ",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Health, sound, cheerful",
+    "japanese": "げんき",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Free(time)",
+    "japanese": "ひま",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Convenient",
+    "japanese": "べんり",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Fine, nice, wonderful",
+    "japanese": "すてき",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Big, large",
+    "japanese": "おおきい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Small, little",
+    "japanese": "ちいさい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "New",
+    "japanese": "あたらしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Old",
+    "japanese": "ふるい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Good",
+    "japanese": "いい「よい」",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Bad",
+    "japanese": "わるい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Hot",
+    "japanese": "あつい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Cold temprature",
+    "japanese": "さむい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Cold (to touch)",
+    "japanese": "つめたい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Difficult",
+    "japanese": "むずかしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Easy",
+    "japanese": "やさしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Expensive, Tall, high",
+    "japanese": "たかい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Inexpensive",
+    "japanese": "やすい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Low",
+    "japanese": "ひくい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Interesting",
+    "japanese": "おもしろい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Delicious, Tasty",
+    "japanese": "おいしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Busy",
+    "japanese": "いそがしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "Enjoy",
+    "japanese": "たのしい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "8",
+    "english": "White",
+    "japanese": "しろい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Black",
+    "japanese": "くろい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Red",
+    "japanese": "あかい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Blue",
+    "japanese": "あおい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Mountain",
+    "japanese": "やま",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Town, City",
+    "japanese": "まち",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Food",
+    "japanese": "たべもの",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Car, Vehicle",
+    "japanese": "くるま",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Place",
+    "japanese": "ところ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Dormitory",
+    "japanese": "りょう",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Life",
+    "japanese": "せいかつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Work, business",
+    "japanese": "「お」しごと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "How",
+    "japanese": "どう",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "What kind of",
+    "japanese": "どんな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Which one (three or more)",
+    "japanese": "どれ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Very",
+    "japanese": "とても",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "Not so (used with negatives)",
+    "japanese": "あまり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "and (used to connect sentences)",
+    "japanese": "そして",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "But",
+    "japanese": "が",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "8",
+    "english": "How are you?",
+    "japanese": "おげんきですか",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Understand",
+    "japanese": "わかります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "9",
+    "english": "Have",
+    "japanese": "あります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "9",
+    "english": "Like",
+    "japanese": "すき",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "9",
+    "english": "Dislike",
+    "japanese": "きらい",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "9",
+    "english": "Good at",
+    "japanese": "じょうず",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "9",
+    "english": "Poor at",
+    "japanese": "へた",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "9",
+    "english": "Dish, Cooking",
+    "japanese": "りょうり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Drinks",
+    "japanese": "のみもの",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Sport",
+    "japanese": "スポーツ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Baseball",
+    "japanese": "やきゅう",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Dance",
+    "japanese": "ダンス",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Music",
+    "japanese": "おんがく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Song",
+    "japanese": "うた",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Classical music",
+    "japanese": "クラシック",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Jazz",
+    "japanese": "ジャズ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Concert",
+    "japanese": "コンサート",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Karaoke",
+    "japanese": "カラオケ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Kabuki (Traditional Japanese musical drama)",
+    "japanese": "かぶき",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Picture, Drawing",
+    "japanese": "え",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Letter, Character",
+    "japanese": "じ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Chinese Characters",
+    "japanese": "かんじ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Hiragana Script",
+    "japanese": "ひらがな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Katakana script",
+    "japanese": "かたかな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Roman Alphabet",
+    "japanese": "ローマじ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Small change(money)",
+    "japanese": "こまかいおかね",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Time",
+    "japanese": "じかん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Something to do, Errand",
+    "japanese": "ようじ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Appointment, Promise",
+    "japanese": "やくそく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Husband (Someone)",
+    "japanese": "ごしゅじん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "(my) husband",
+    "japanese": "おっと／しゅじん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Wife (Someone)",
+    "japanese": "おくさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "(my) wife",
+    "japanese": "つま・かない",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Child",
+    "japanese": "こども",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Well, much",
+    "japanese": "よく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Mostly, roughly",
+    "japanese": "だいたい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Many, much",
+    "japanese": "たくさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "a little, a few",
+    "japanese": "すこし",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Not at all (used with negatives)",
+    "japanese": "ぜんぜん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Early, quickly, fast",
+    "japanese": "はやく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Because",
+    "japanese": "から",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Why",
+    "japanese": "どうして",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "I'm sorry (to hear that)/That's a pity.",
+    "japanese": "ざんねんです「ね」",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "I am sorry",
+    "japanese": "すみません",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Hello",
+    "japanese": "もしもし",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Oh",
+    "japanese": "ああ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "9",
+    "english": "Won't you join me (us)?",
+    "japanese": "いっしょにいかがですか",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Exist, be (animate things)",
+    "japanese": "います",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "10",
+    "english": "Exist, be (inanimate things)",
+    "japanese": "あります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "10",
+    "english": "Various",
+    "japanese": "いろいろ",
+    "vocabType": "Adjectives"
+  },
+  {
+    "lession": "10",
+    "english": "Man",
+    "japanese": "おとこのひと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Woman",
+    "japanese": "おんなのひと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Boy",
+    "japanese": "おとこのこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Girl",
+    "japanese": "おんなのこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Dog",
+    "japanese": "いぬ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Cat",
+    "japanese": "ねこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Tree, wood",
+    "japanese": "き",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Thing",
+    "japanese": "もの",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Film",
+    "japanese": "フィルム",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Battery",
+    "japanese": "でんち",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Box",
+    "japanese": "はこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Switch",
+    "japanese": "スイッチ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Refrigerator",
+    "japanese": "れいぞうこ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Table",
+    "japanese": "テーブル",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Bed",
+    "japanese": "ベッド",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Shelf",
+    "japanese": "たな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Door",
+    "japanese": "ドア",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Window",
+    "japanese": "まど",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Mailbox, Postbox",
+    "japanese": "ポスト",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Building",
+    "japanese": "ビル",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Park",
+    "japanese": "こうえん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Coffe shop",
+    "japanese": "きっさてん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Book store",
+    "japanese": "ほんや",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Store",
+    "japanese": "や",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Fixed place to catch taxis, trains etc",
+    "japanese": "のりば",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Prefecture",
+    "japanese": "けん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "on, above, over",
+    "japanese": "うえ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Under, below, beneath",
+    "japanese": "した",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "front, before",
+    "japanese": "まえ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "back, behind",
+    "japanese": "うしろ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Right (side)",
+    "japanese": "みぎ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Left (side)",
+    "japanese": "ひだり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "in, inside",
+    "japanese": "なか",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "Outside",
+    "japanese": "そと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "next",
+    "japanese": "となり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "near, vicinity",
+    "japanese": "ちかく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "10",
+    "english": "between, among",
+    "japanese": "あいだ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Have (a child)",
+    "japanese": "います",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "11",
+    "english": "Stay, be",
+    "japanese": "います",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "11",
+    "english": "Take (referring to time or money)",
+    "japanese": "かかります",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "11",
+    "english": "Take a day off (work)",
+    "japanese": "やすみます",
+    "vocabType": "Verb"
+  },
+  {
+    "lession": "11",
+    "english": "one (counter thing)",
+    "japanese": "ひとつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "two (counter thing)",
+    "japanese": "ふたつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Three (counter things)",
+    "japanese": "みっつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Four (counter things)",
+    "japanese": "よっつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Five (counter things)",
+    "japanese": "いっつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Six (counter things)",
+    "japanese": "むっつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Seven (counter things)",
+    "japanese": "ななつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Eight (counter things)",
+    "japanese": "はっつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Nine (counter things)",
+    "japanese": "ここのつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Ten (counter things)",
+    "japanese": "とお",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "How many",
+    "japanese": "いくつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "One person",
+    "japanese": "ひとり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Two person",
+    "japanese": "ふたり",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "- People suffix(except one and two)",
+    "japanese": "にん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Counter for machines, cars etc",
+    "japanese": "だい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Counter for paper, stamps etc",
+    "japanese": "まい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Counter for times, floor",
+    "japanese": "かい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Apple",
+    "japanese": "りんご",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Orange",
+    "japanese": "みかん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Sandwich",
+    "japanese": "サンドイッチ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Curry",
+    "japanese": "カレー",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Ice cream",
+    "japanese": "アイスクリーム",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Stamp",
+    "japanese": "きって",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Post card",
+    "japanese": "はがき",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Envelope",
+    "japanese": "ふうとう",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Special delivery",
+    "japanese": "そくたつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Registered mail",
+    "japanese": "かきとめ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Airmail",
+    "japanese": "エアメール",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Sea mail",
+    "japanese": "ふなびん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Parents",
+    "japanese": "りょうしん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Brothers and sisters",
+    "japanese": "きょうだい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "(my) elder brother",
+    "japanese": "あに",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Elder brother (someone)",
+    "japanese": "あにいさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "(my) elder sister",
+    "japanese": "あね",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Elder sister (someone)",
+    "japanese": "あねえさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "(my) younger brother",
+    "japanese": "おとうと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Younger brother (someone)",
+    "japanese": "おとうとさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "(my) youger sister",
+    "japanese": "いもうと",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Younger sister (someone)",
+    "japanese": "いもうとさん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Foreign country",
+    "japanese": "がいこく",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Hours indicator",
+    "japanese": "じかん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Weeks indicator",
+    "japanese": "しゅうかん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Months indicator",
+    "japanese": "かげつ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "years indicator",
+    "japanese": "ねん",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "About",
+    "japanese": "ぐらい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "How long",
+    "japanese": "どのくらい",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "in total",
+    "japanese": "ぜんぶで",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "all, everything",
+    "japanese": "みんな",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Only",
+    "japanese": "だけ",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Nice weather, isn't it?",
+    "japanese": "いい「お」てんきですね",
+    "vocabType": "Noun"
+  },
+  {
+    "lession": "11",
+    "english": "Are you going out?",
+    "japanese": "おてかけですか",
     "vocabType": "Noun"
   }
 ]
