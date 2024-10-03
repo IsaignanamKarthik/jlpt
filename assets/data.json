@@ -3918,5 +3918,159 @@
     "japanese": "たります",
     "vocabType": "Verb",
     "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Keep in mind",
+    "japanese": "おぼえます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Change",
+    "japanese": "かえます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Think(யோசிக்கிறேன்)",
+    "japanese": "かんがえます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Transfer",
+    "japanese": "のりかえます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Welcome",
+    "japanese": "むかえます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Open",
+    "japanese": "あけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Call Telephone",
+    "japanese": "かけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Put on Glasses",
+    "japanese": "かけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Careful",
+    "japanese": "きをつけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Turn on",
+    "japanese": "つけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Go out",
+    "japanese": "でかけます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Show",
+    "japanese": "みせます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Throw away",
+    "japanese": "すてます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Leave",
+    "japanese": "でます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Go to bed",
+    "japanese": "ねます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Check",
+    "japanese": "しらべます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Collect",
+    "japanese": "あつめます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Close(I)",
+    "japanese": "しめます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Close(auto)",
+    "japanese": "しまります",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Stop(I)",
+    "japanese": "とめます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Stop(auto)",
+    "japanese": "とまります",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Start",
+    "japanese": "はじめます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
   }
 ]
