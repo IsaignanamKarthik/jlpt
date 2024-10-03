@@ -4072,5 +4072,47 @@
     "japanese": "はじめます",
     "vocabType": "Verb",
     "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Born",
+    "japanese": "うまれます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Give me",
+    "japanese": "くれます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Tired",
+    "japanese": "つかれます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Forget",
+    "japanese": "わすれます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Stop doing",
+    "japanese": "やめます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Put in",
+    "japanese": "いれます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
   }
 ]
