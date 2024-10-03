@@ -791,7 +791,7 @@
     "quizRequired": "1"
   },
   {
-    "lession": "4",
+    "lession": "Verb",
     "english": "Work",
     "japanese": "はたらきます",
     "vocabType": "Verb",
@@ -812,7 +812,7 @@
     "quizRequired": "1"
   },
   {
-    "lession": "4",
+    "lession": "Verb",
     "english": "Finish",
     "japanese": "おわります",
     "vocabType": "Verb",
@@ -1155,14 +1155,14 @@
     "quizRequired": "1"
   },
   {
-    "lession": "5",
+    "lession": "Verb",
     "english": "Go",
     "japanese": "いきます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "5",
+    "lession": "Verb",
     "english": "Come",
     "japanese": "きます",
     "vocabType": "Verb",
@@ -1533,25 +1533,25 @@
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Eat",
     "japanese": "たべます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Drink",
     "japanese": "のみます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Smoke",
     "japanese": "すいます",
     "vocabType": "Verb",
-    "quizRequired": "1"
+    "quizRequired": "0"
   },
   {
     "lession": "6",
@@ -1568,7 +1568,7 @@
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Read",
     "japanese": "よみます",
     "vocabType": "Verb",
@@ -1582,32 +1582,32 @@
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Buy",
     "japanese": "かいます",
     "vocabType": "Verb",
-    "quizRequired": "1"
+    "quizRequired": "0"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Take",
     "japanese": "とります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Do",
     "japanese": "します",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "6",
+    "lession": "Verb",
     "english": "Meet",
     "japanese": "あいます",
     "vocabType": "Verb",
-    "quizRequired": "1"
+    "quizRequired": "0"
   },
   {
     "lession": "6",
@@ -1876,14 +1876,14 @@
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Send",
     "japanese": "おくります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Give",
     "japanese": "あげます",
     "vocabType": "Verb",
@@ -1897,32 +1897,32 @@
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Lend",
     "japanese": "かします",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Borrow",
     "japanese": "かります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Teach",
     "japanese": "おしえます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
-    "lession": "7",
+    "lession": "Verb",
     "english": "Learn",
     "japanese": "ならいます",
     "vocabType": "Verb",
-    "quizRequired": "1"
+    "quizRequired": "0"
   },
   {
     "lession": "7",
@@ -2471,7 +2471,7 @@
     "quizRequired": "1"
   },
   {
-    "lession": "9",
+    "lession": "Verb",
     "english": "Understand",
     "japanese": "わかります",
     "vocabType": "Verb",
@@ -3466,7 +3466,7 @@
   },
   {
     "lession": "Verb",
-    "english": "Tell",
+    "english": "Say",
     "japanese": "いいます",
     "vocabType": "Verb",
     "quizRequired": "1"
@@ -3480,8 +3480,8 @@
   },
   {
     "lession": "Verb",
-    "english": "Differ",
-    "japanese": "ちがいます",
+    "english": "Think",
+    "japanese": "おもいます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -3494,34 +3494,6 @@
   },
   {
     "lession": "Verb",
-    "english": "Pay",
-    "japanese": "はらいます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Think(நினை)",
-    "japanese": "おもいます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Remember",
-    "japanese": "おもいだします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Accept, Get",
-    "japanese": "もらいます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
     "english": "Help",
     "japanese": "てつだいます",
     "vocabType": "Verb",
@@ -3529,337 +3501,8 @@
   },
   {
     "lession": "Verb",
-    "english": "Keep in mind",
-    "japanese": "おばえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Disappear",
-    "japanese": "きえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Answer",
-    "japanese": "こたえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Change(train)",
-    "japanese": "のりかえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Change",
-    "japanese": "かえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Exchange",
-    "japanese": "かえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Think(யோசி)",
-    "japanese": "かんがえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Welcome",
-    "japanese": "むかえます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Write",
-    "japanese": "かきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Hear",
-    "japanese": "ききます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Cry",
-    "japanese": "なきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Keep(Place)",
-    "japanese": "おきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Wakeup",
-    "japanese": "おきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Walk",
-    "japanese": "あるきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Open",
-    "japanese": "あきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Vacate",
-    "japanese": "あきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Wear",
-    "japanese": "きます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Bloom",
-    "japanese": "さきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Reach",
-    "japanese": "つきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Put",
-    "japanese": "はきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Pull",
-    "japanese": "ひきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Play instruments",
-    "japanese": "ひきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Blow",
-    "japanese": "ふきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Brush",
-    "japanese": "みがきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Move",
-    "japanese": "うごきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Swim",
-    "japanese": "およぎます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Rush(Hurry up)",
-    "japanese": "いそぎます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Remove(cloths)",
-    "japanese": "ねぎます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Switch on",
-    "japanese": "つけます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Go out",
-    "japanese": "でかけます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Dial phone",
-    "japanese": "かけます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Take care",
-    "japanese": "きをつけます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Lose(Beaten)",
-    "japanese": "まけます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Push",
-    "japanese": "おします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Repair",
-    "japanese": "なおします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Lose(lost)",
-    "japanese": "なくします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Withdraw(Money)",
-    "japanese": "おろいます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Return it back",
-    "japanese": "かえします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Erase, Turn off",
-    "japanese": "けします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Insert",
-    "japanese": "さします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Refer",
-    "japanese": "さします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Can do",
-    "japanese": "できます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Take it out",
-    "japanese": "だします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Speak",
-    "japanese": "はなします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Hand it over",
-    "japanese": "わたします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Search",
-    "japanese": "さがします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Turn",
-    "japanese": "まわします",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Show",
-    "japanese": "みせます",
+    "english": "Pay",
+    "japanese": "はらいます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -3872,20 +3515,6 @@
   },
   {
     "lession": "Verb",
-    "english": "Throw away",
-    "japanese": "すてます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Useful to someone",
-    "japanese": "やくにたちます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
     "english": "Wait",
     "japanese": "まちます",
     "vocabType": "Verb",
@@ -3893,169 +3522,22 @@
   },
   {
     "lession": "Verb",
-    "english": "Lift",
+    "english": "Hold",
     "japanese": "もちます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
     "lession": "Verb",
-    "english": "Win",
-    "japanese": "かちます",
+    "english": "Useful",
+    "japanese": "やくにたちます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
     "lession": "Verb",
-    "english": "Go Out",
-    "japanese": "でます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Die",
-    "japanese": "しにます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Sleep",
-    "japanese": "ねます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Fly",
-    "japanese": "とびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Call",
-    "japanese": "よびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Play",
-    "japanese": "あそびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Select",
-    "japanese": "えらびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Stand in line, arrange",
-    "japanese": "ならびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Take bath",
-    "japanese": "あびます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Arrange in line",
-    "japanese": "ならべます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Investigate",
-    "japanese": "しらべます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "See",
-    "japanese": "みます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Live, stay",
-    "japanese": "すみます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Rest",
-    "japanese": "やすみます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Request",
-    "japanese": "たのみます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Close(I)",
-    "japanese": "しめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Fasten belt",
-    "japanese": "しめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Stop(I)",
-    "japanese": "とめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Quit",
-    "japanese": "やめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Start",
-    "japanese": "はじめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Work in a company",
-    "japanese": "つとめます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Collect",
-    "japanese": "あつめます",
+    "english": "There is(non-living)",
+    "japanese": "あいます",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -4068,20 +3550,6 @@
   },
   {
     "lession": "Verb",
-    "english": "Exist",
-    "japanese": "いります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Born",
-    "japanese": "うまります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
     "english": "Sell",
     "japanese": "うります",
     "vocabType": "Verb",
@@ -4089,14 +3557,7 @@
   },
   {
     "lession": "Verb",
-    "english": "Get down",
-    "japanese": "おります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Return",
+    "english": "Return home",
     "japanese": "かえります",
     "vocabType": "Verb",
     "quizRequired": "1"
@@ -4110,8 +3571,15 @@
   },
   {
     "lession": "Verb",
-    "english": "wear cap",
+    "english": "Wear(Hat)",
     "japanese": "かぶります",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Do my best",
+    "japanese": "がんばります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -4124,22 +3592,8 @@
   },
   {
     "lession": "Verb",
-    "english": "Confused",
-    "japanese": "こまります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
     "english": "Touch",
     "japanese": "さわります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Close(auto)",
-    "japanese": "しまります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -4166,36 +3620,8 @@
   },
   {
     "lession": "Verb",
-    "english": "Take someone to a place",
-    "japanese": "つれていきます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Stop(Auto)",
+    "english": "Stay",
     "japanese": "とまります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Stay in hotel",
-    "japanese": "とまります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Do the best",
-    "japanese": "かんばります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Grow old",
-    "japanese": "とります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
@@ -4229,85 +3655,267 @@
   },
   {
     "lession": "Verb",
-    "english": "Start(auto)",
-    "japanese": "はじまります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Run",
-    "japanese": "はしります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Paste, Stick",
-    "japanese": "はります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Fall",
+    "english": "Falls(rain)",
     "japanese": "ふります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
     "lession": "Verb",
-    "english": "Bend",
+    "english": "Turn",
     "japanese": "まがります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
     "lession": "Verb",
-    "english": "Cross over",
+    "english": "Cross",
     "japanese": "わたります",
     "vocabType": "Verb",
     "quizRequired": "1"
   },
   {
     "lession": "Verb",
-    "english": "Enough",
+    "english": "Play",
+    "japanese": "あそびます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Call",
+    "japanese": "よびます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Live",
+    "japanese": "すみます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Rest",
+    "japanese": "やすみます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Walk",
+    "japanese": "あるきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Move",
+    "japanese": "うごきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Put",
+    "japanese": "おきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Write",
+    "japanese": "かきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Listen",
+    "japanese": "ききます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Arrive",
+    "japanese": "つきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Take(Child)",
+    "japanese": "つれていきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Wear(shoes)",
+    "japanese": "はきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Pull",
+    "japanese": "ひきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Take(Umbrella)",
+    "japanese": "もっていきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Hurry",
+    "japanese": "いそぎます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Swim",
+    "japanese": "およぎます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Take off",
+    "japanese": "ねぎます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Push",
+    "japanese": "おします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Remember",
+    "japanese": "おもいだします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Return(some product)",
+    "japanese": "かえします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Turn off",
+    "japanese": "けします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Put out",
+    "japanese": "だします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Fix",
+    "japanese": "なおします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Lose",
+    "japanese": "なくします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Talk",
+    "japanese": "はなします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Turn(Handle)",
+    "japanese": "まわします",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "There is(Livng thing)",
+    "japanese": "います",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Wear(Cloth)",
+    "japanese": "きます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Getup",
+    "japanese": "おきます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Can do",
+    "japanese": "できます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Take(Shower)",
+    "japanese": "あびます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Watch",
+    "japanese": "みます",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Get off",
+    "japanese": "おります",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "Rent",
+    "japanese": "かります",
+    "vocabType": "Verb",
+    "quizRequired": "1"
+  },
+  {
+    "lession": "Verb",
+    "english": "There is enough",
     "japanese": "たります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "To do",
-    "japanese": "やります",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Put on, insert",
-    "japanese": "いれます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Tired",
-    "japanese": "つかれます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Give me",
-    "japanese": "くれます",
-    "vocabType": "Verb",
-    "quizRequired": "1"
-  },
-  {
-    "lession": "Verb",
-    "english": "Forgot",
-    "japanese": "わすれます",
     "vocabType": "Verb",
     "quizRequired": "1"
   }
